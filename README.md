@@ -1,1 +1,6 @@
-# Final-FRT-Proj
+# Final-FRT-Proj![Screenshot 2022-12-12 173038](https://user-images.githubusercontent.com/120269522/207040354-38c6a86c-abe6-4dd8-8963-f47cae1c7ff6.png)
+![Screenshot 2022-12-12 173120](https://user-images.githubusercontent.com/120269522/207040359-8c11b8be-b104-4a8b-bd87-ef44a4ac75a0.png)
+![Screenshot 2022-12-12 173136](https://user-images.githubusercontent.com/120269522/207040365-39bcc842-1261-4ed4-9db9-def0810a5e82.png)
+![Screenshot 2022-12-12 173154](https://user-images.githubusercontent.com/120269522/207040368-73d102a9-e3b1-4467-bbbf-617080bb989d.png)
+![Screenshot 2022-12-12 173210](https://user-images.githubusercontent.com/120269522/207040374-6fdcfe75-eeed-4029-98f3-719c4041e730.png)
+![Screenshot 2022-12-12 173230](https://user-images.githubusercontent.com/120269522/207040378-c21c23b8-b66e-4c50-95c1-b1cbb1a531d9.png)
